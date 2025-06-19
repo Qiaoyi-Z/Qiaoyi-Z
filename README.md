@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hi I'm @Qiaoyi-Z<br>🌱 College Student<br>🌱 I‘m currently learning data analysis and some other topics of interest
+🌱 Hi I'm @Qiaoyi-Z<br>🌱 <br>🌱 I‘m currently learning data analysis and some other topics of interest
 
 
 # 💻 Tech Stack:
